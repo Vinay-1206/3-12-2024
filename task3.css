@@ -1,0 +1,15 @@
+.box1,
+.box2 {
+    width: 200px;
+    border-style: solid;
+    border-color: blue;
+    display: inline-block;
+}
+
+.box1 {
+    margin-right: 20px;
+}
+
+.box2 {
+    margin-left: 20px;
+}
